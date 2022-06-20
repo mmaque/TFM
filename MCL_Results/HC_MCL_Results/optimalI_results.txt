@@ -1,0 +1,12 @@
+3
+Collison_Quasimesenchymal	1
+Moffit_Basal	1
+Bailey_Squamous	1
+Bailey_Immunogenic	1
+Puleo_Basal	1
+Collison_Classical	2
+Bailey_Progenitor	2
+Moffit_Classical	2
+Puleo_Classical	2
+Collison_Exocrine	3
+Bailey_ADEX	3
